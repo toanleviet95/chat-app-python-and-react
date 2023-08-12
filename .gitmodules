@@ -1,0 +1,6 @@
+[submodule "react-frontend"]
+	path = react-frontend
+	url = https://github.com/toanleviet95/react-frontend-chat-app
+[submodule "python-backend"]
+	path = python-backend
+	url = https://github.com/toanleviet95/python-backend-chat-app
